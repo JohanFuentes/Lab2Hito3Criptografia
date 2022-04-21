@@ -40,6 +40,8 @@ Para automatizar la recuperación de contraseña de los sitios web, se utilizaro
 
 Cabe mencionar que en ambos sitios, fue posible automatizar la recuperación de la contraseña hasta el punto de, que llegara el link al correo para recuperar contraseña, como se muestra en las siguientes imagenes:
 
+![correo](images/recuperarContrasenia.png)
+
 #### 5) Fuerza bruta en login
 
 Para aplicar fuerza bruta en el login de los sitios web, se utilizaron los codigos indicados a continuación:
