@@ -10,6 +10,38 @@ Las paginas auditadas fueron las siguientes:
 
 ## Desarrollo Actividades
 
-### 1) Login
+### 1) Registro
 
-Para automat
+Para automatizar el registro de los sitios web, se utilizaron los codigos indicados a continuación:
+
+* sitio Frances: LoginRuedu.py
+* sitio Chileno: LoginReebok.py
+
+### 2) Login
+
+Para automatizar el login de los sitios web, se utilizaron los codigos indicados a continuación:
+
+* sitio Frances: RegistroRuedu.py
+* sitio Chileno: RegistroReebok.py
+
+### 3) Cambio de contraseña
+
+Para automatizar el cambio de contraseña de los sitios web, se utilizaron los codigos indicados a continuación:
+
+* sitio Frances: CambioContraseniaRuedu.py
+* sitio Chileno: CambioContraseniaReebook.py
+
+### 4) Recuperar contraseña
+
+Para automatizar la recuperación de contraseña de los sitios web, se utilizaron los codigos indicados a continuación:
+
+* sitio Frances: RecuperarContraseniaRuedu.py
+* sitio Chileno: RecupererContraseniaReebok.py
+
+### 4) Fuerza bruta en login
+
+Para aplicar fuerza bruta en el login de los sitios web, se utilizaron los codigos indicados a continuación:
+
+* sitio Frances: LoginFuerzaBrutaRuedu.py
+* sitio Chileno: LoginFuerzaBrutaReebok.py
+
