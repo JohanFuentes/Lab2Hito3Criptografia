@@ -4,8 +4,8 @@ En este repositorio, se encuentran los códigos utilizados para automatizar el r
 Para poder ejecutar estos codigos de debe tener instalado Selenium y tambien haber descargado chromedriver. El ejecutable de chromedriver debe estar en la misma carpeta donde estan los codigos.
 
 Las paginas auditadas fueron las siguientes:
-*sitio Frances: https://www.rueducommerce.fr/
-*sitio Chileno: https://www.reebok.cl/
+* sitio Frances: https://www.rueducommerce.fr/
+* sitio Chileno: https://www.reebok.cl/
 
 
 ## Desarrollo Actividades
