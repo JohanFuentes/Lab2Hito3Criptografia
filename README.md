@@ -42,6 +42,12 @@ Cabe mencionar que en ambos sitios, fue posible automatizar la recuperación de 
 
 ![correo](images/recuperarContrasenia.PNG)
 
+No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, el cual era para solo un uso, ya que al intentar dos veces cambiar la contraseña con el mismo link que llegaba al correo, mostraba un error, como se muestra en las siguientes imagenes:
+
+![tokenfr](images/tokencl.png)
+
+![tokencl](images/tokenfr.PNG)
+
 #### 5) Fuerza bruta en login
 
 Para aplicar fuerza bruta en el login de los sitios web, se utilizaron los codigos indicados a continuación:
