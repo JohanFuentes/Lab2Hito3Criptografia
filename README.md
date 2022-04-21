@@ -59,11 +59,11 @@ Para automatizar la recuperación de contraseña de los sitios web, se utilizaro
 * sitio Chileno: RecupererContraseniaReebok.py
 
 En los codigos en la variable "username" poner el correo usado anteriormente para el registro.
-Cabe mencionar que en ambos sitios, fue posible automatizar la recuperación de la contraseña hasta el punto de, que llegara el link al correo para recuperar contraseña, como se muestra en las siguientes imagenes:
+Cabe mencionar que en ambos sitios, fue posible automatizar la recuperación de la contraseña hasta el punto, de que llegara el link al correo para recuperar la contraseña, como se muestra en las siguientes imagenes:
 
 ![correo](images/recuperarContrasenia.PNG)
 
-No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, el cual era para solo un uso, ya que al intentar dos veces cambiar la contraseña con el mismo link que llegaba al correo, mostraba un error, como se muestra en las siguientes imagenes:
+No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, el cual era para solo un uso, por lo cual al intentar dos veces cambiar la contraseña con el mismo link que llegaba al correo, mostraba un error, como se muestra en las siguientes imagenes:
 
 ![tokenfr](images/tokencl.png)
 
