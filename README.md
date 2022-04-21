@@ -17,6 +17,10 @@ Para automatizar el registro de los sitios web, se utilizaron los codigos indica
 * sitio Frances: LoginRuedu.py
 * sitio Chileno: LoginReebok.py
 
+En los codigos en la variable "username" poner un correo de ejemplo, como se muestra a continuación:
+
+* username = "ejemplocorreo@gmail.com"
+
 #### 2) Login
 
 Para automatizar el login de los sitios web, se utilizaron los codigos indicados a continuación:
@@ -24,20 +28,37 @@ Para automatizar el login de los sitios web, se utilizaron los codigos indicados
 * sitio Frances: RegistroRuedu.py
 * sitio Chileno: RegistroReebok.py
 
-##### 3) Cambio de contraseña
+En los codigos en la variable "username" poner el correo usado anteriormente para el registro.
+
+#### 3) Fuerza bruta en login
+
+Para aplicar fuerza bruta en el login de los sitios web, se utilizaron los codigos indicados a continuación:
+
+* sitio Frances: LoginFuerzaBrutaRuedu.py
+* sitio Chileno: LoginFuerzaBrutaReebok.py
+
+En los codigos en la variable "username" poner el correo usado anteriormente para el registro.
+Se puede ver en los codigos que, se intenta 20 veces ingresar a la cuenta del correo ingresado, pero en solo en una oportunidad se puede ingresar (al tercer intento, ya que en esa posición del arreglo se puso la contraseña correcta). 
+
+##### 4) Cambio de contraseña
 
 Para automatizar el cambio de contraseña de los sitios web, se utilizaron los codigos indicados a continuación:
 
 * sitio Frances: CambioContraseniaRuedu.py
 * sitio Chileno: CambioContraseniaReebook.py
 
-#### 4) Recuperar contraseña
+En los codigos en la variable "username" poner el correo usado anteriormente para el registro y en la variable "newPassword", poner la contraseña nueva, como se muestra a continuación:
+
+* newPassword = "Password1234"
+
+#### 5) Recuperar contraseña
 
 Para automatizar la recuperación de contraseña de los sitios web, se utilizaron los codigos indicados a continuación:
 
 * sitio Frances: RecuperarContraseniaRuedu.py
 * sitio Chileno: RecupererContraseniaReebok.py
 
+En los codigos en la variable "username" poner el correo usado anteriormente para el registro.
 Cabe mencionar que en ambos sitios, fue posible automatizar la recuperación de la contraseña hasta el punto de, que llegara el link al correo para recuperar contraseña, como se muestra en las siguientes imagenes:
 
 ![correo](images/recuperarContrasenia.PNG)
@@ -47,11 +68,4 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 ![tokenfr](images/tokencl.png)
 
 ![tokencl](images/tokenfr.PNG)
-
-#### 5) Fuerza bruta en login
-
-Para aplicar fuerza bruta en el login de los sitios web, se utilizaron los codigos indicados a continuación:
-
-* sitio Frances: LoginFuerzaBrutaRuedu.py
-* sitio Chileno: LoginFuerzaBrutaReebok.py
 
