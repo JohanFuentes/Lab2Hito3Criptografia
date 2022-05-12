@@ -14,8 +14,8 @@ Las paginas auditadas fueron las siguientes:
 
 Para automatizar el registro de los sitios web, se utilizaron los codigos indicados a continuación:
 
-* sitio Frances: LoginRuedu.py
-* sitio Chileno: LoginReebok.py
+* sitio Frances: RegistroRuedu.py
+* sitio Chileno: RegistroReebok.py
 
 En los codigos en la variable "username" poner un correo de ejemplo, como se muestra a continuación:
 
@@ -25,8 +25,8 @@ En los codigos en la variable "username" poner un correo de ejemplo, como se mue
 
 Para automatizar el login de los sitios web, se utilizaron los codigos indicados a continuación:
 
-* sitio Frances: RegistroRuedu.py
-* sitio Chileno: RegistroReebok.py
+* sitio Frances: LoginRuedu.py
+* sitio Chileno: LoginReebok.py
 
 En los codigos en la variable "username" poner el correo usado anteriormente para el registro.
 
