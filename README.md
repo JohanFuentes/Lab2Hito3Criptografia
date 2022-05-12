@@ -1,7 +1,7 @@
 # Descripción
-En este repositorio, se encuentran los códigos utilizados para automatizar el registro de usuario, el ingreso de usuario, el cambio de contraseña, el recuperar la contraseña y tambien usar fuerza bruta para el ingreso a una cuenta, en dos paginas web, una chilena y otra francesa. El código fue escrito en Python, en conjunto con el entorno de prueba Selenium.
+En este repositorio, se encuentran los códigos utilizados para automatizar el registro de usuario, el inicio de sesión de usuario, la modificación de contraseña (requiere inicio de sesión), y el reestablecer la contraseña (no requiere inicio de sesión) y tambien usar fuerza bruta para el ingreso a una cuenta, en dos paginas web, una chilena y otra francesa. El código fue escrito en Python, en conjunto con el entorno de prueba Selenium.
 
-Para poder ejecutar estos codigos de debe tener instalado Selenium y tambien haber descargado chromedriver. El ejecutable de chromedriver debe estar en la misma carpeta donde estan los codigos.
+Para poder ejecutar estos codigos de debe tener instalado Selenium (https://selenium-python.readthedocs.io/installation.html) y tambien haber descargado chromedriver, teniendo en cuenta la version del navegador Google Chrome para la descarga (https://chromedriver.chromium.org/). El ejecutable "chromedriver.exe" debe estar en la misma carpeta donde estan los codigos.
 
 Las paginas auditadas fueron las siguientes:
 * sitio Frances: https://www.rueducommerce.fr/
