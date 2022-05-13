@@ -70,7 +70,14 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 ![tokencl](images/tokenfr.PNG)
 
 
-<video src="https://vimeo.com/709375876"></video>
+## Video del funcionamiento del servidor y el cliente, capturando el trafico generado por ellos en wireshark
+[![Watch the video](images/Play.png)](https://player.vimeo.com/video/709373645?h=898a634214)
+
+## Video del funcionamiento del servidor y el cliente, capturando el trafico generado por ellos en wireshark
+[![Watch the video](images/Play.png)](https://player.vimeo.com/video/709375876?h=b556063de2)
+
+<iframe src="https://player.vimeo.com/video/709373645?h=898a634214" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 <iframe src="https://player.vimeo.com/video/709375876?h=b556063de2" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
