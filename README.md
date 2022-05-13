@@ -73,7 +73,6 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 
 
 ## Video de la ejecución del código todoRuedu.py
-
 [![Watch the video](images/Ruedu.PNG)](https://player.vimeo.com/video/709373645?h=898a634214)
 
 
