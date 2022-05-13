@@ -69,3 +69,9 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 
 ![tokencl](images/tokenfr.PNG)
 
+
+<iframe src="https://player.vimeo.com/video/709375876?h=b556063de2" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
