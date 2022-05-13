@@ -72,7 +72,7 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 
 <iframe src="" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<video src="https://player.vimeo.com/video/709375876?h=b556063de2"></video>
+<video src="https://vimeo.com/709375876"></video>
 
 
 
