@@ -10,6 +10,8 @@ Las paginas auditadas fueron las siguientes:
 
 ## Desarrollo Actividades
 
+En primer lugar se identificarán todos los códigos que se hicieron por separados para cada sitio (Registro, Inicio de Sesión, Cambio de contraseña, Reestablecimiento de contraseña e Inicio de sesión con fuerza bruta (agregado)). Luego se adjuntaran dos vídeos unificando los códigos anteriores, para cada sitio (Ruedu y Reebok), especificamente los códigos que se unificaran son Registro, Inicio De sesión, Cambio de contraseña, Inicio De sesión (corroborando el cambio de contraseña) y reestablecimiento en de contraseña. Los dos códigos que se ejecutaran en el vídeo son todoRuedu.py y todoReebook.py. Estos vídeos mostrarán desde que se piden algunos inputs (correo a registrar, contraseña a registrar y contraseña nueva (por la que se va a modificar la anteiror en algún momento del vídeo)), hasta que se válida que el enlace que nos envian desde cada sitio, para reestablecer la contraseña, tiene solo un uso.
+
 #### 1) Registro
 
 Para automatizar el registro de los sitios web, se utilizaron los codigos indicados a continuación:
@@ -70,15 +72,10 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 ![tokencl](images/tokenfr.PNG)
 
 
-## Video del funcionamiento del servidor y el cliente, capturando el trafico generado por ellos en wireshark
+## Video de la ejecución del código todoRuedu.py
 
-[![Watch the video](<img src="images/Ruedu.PNG" alt="alt text" width="300" height="300">)](https://player.vimeo.com/video/709373645?h=898a634214)
+[![Watch the video](images/Ruedu.PNG)](https://player.vimeo.com/video/709373645?h=898a634214)
 
-## Video del funcionamiento del servidor y el cliente, capturando el trafico generado por ellos en wireshark
+
+## Video de la ejecución del código todoReebok.py
 [![Watch the video](images/Reebok.PNG)](https://player.vimeo.com/video/709375876?h=b556063de2)
-
-<iframe src="https://player.vimeo.com/video/709373645?h=898a634214" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/709375876?h=b556063de2" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
