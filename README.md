@@ -71,6 +71,7 @@ No se pudo automatizar mas, debido a que se generaba un token en ambas paginas, 
 
 
 ## Video del funcionamiento del servidor y el cliente, capturando el trafico generado por ellos en wireshark
+<img src="images/Ruedu.PNG" alt="alt text" width="300" height="300">
 [![Watch the video](images/Ruedu.PNG)](https://player.vimeo.com/video/709373645?h=898a634214)
 
 ## Video del funcionamiento del servidor y el cliente, capturando el trafico generado por ellos en wireshark
